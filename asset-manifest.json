@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shopping-card-using-react-js-/static/css/main.fd690f16.css",
+    "main.js": "/Shopping-card-using-react-js-/static/js/main.468200ed.js",
+    "static/media/car.png": "/Shopping-card-using-react-js-/static/media/car.35d20ba8dc568d05876d.png",
+    "static/media/animal.png": "/Shopping-card-using-react-js-/static/media/animal.760d8fc7360214092629.png",
+    "static/media/teddy.png": "/Shopping-card-using-react-js-/static/media/teddy.caf0b648800cb1e9269f.png",
+    "index.html": "/Shopping-card-using-react-js-/index.html",
+    "main.fd690f16.css.map": "/Shopping-card-using-react-js-/static/css/main.fd690f16.css.map",
+    "main.468200ed.js.map": "/Shopping-card-using-react-js-/static/js/main.468200ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd690f16.css",
+    "static/js/main.468200ed.js"
+  ]
+}
